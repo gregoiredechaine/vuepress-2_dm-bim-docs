@@ -6,7 +6,7 @@ export default defineUserConfig({
     description: 'Vuepress 2 Boilerplate',
     theme: defaultTheme({
         docsDir: 'docs',
-        repo: 'gregoiredechaine/vuepress-2-boilerplate-netlify-cms',
+        repo: 'gregoiredechaine/vuepress-2_dm-bim-docs',
         sidebar: [
             // SidebarItem
             {

@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: gregoiredechaine/vuepress-2-boilerplate-netlify-cms
+  repo: gregoiredechaine/vuepress-2_dm-bim-docs
   branch: main # Brandh to update (Optional; Defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"

@@ -1,8 +1,8 @@
 {
-  "name": "vuepress-2-boilerplate-netlify-cms",
+  "name": "vuepress-2_dm-bim-docs",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/gregoiredechaine/vuepress-2-boilerplate-netlify-cms",
+  "repository": "https://github.com/gregoiredechaine/vuepress-2_dm-bim-docs",
   "author": "Gregoire Dechaine <gregdechaine@me.com>",
   "license": "MIT",
   "scripts": {
