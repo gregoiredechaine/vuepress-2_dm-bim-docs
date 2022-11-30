@@ -1,5 +1,5 @@
 # vuepress-2_dm-bim-docs
-Vuepress 2 Boilerplate with Netlify CMS
+DM-BIM - Docs
 This boilerplate has had the neccessary ressources added to it for the use of GIT enabled Netlify CMS.
 
 # Resources

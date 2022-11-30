@@ -3,7 +3,7 @@ import { defaultTheme, defineUserConfig } from 'vuepress'
 export default defineUserConfig({
     lang: 'en-US',
     title: 'Hello Vuepress 2',
-    description: 'Vuepress 2 Boilerplate',
+    description: 'DM',
     theme: defaultTheme({
         docsDir: 'docs',
         repo: 'gregoiredechaine/vuepress-2_dm-bim-docs',
