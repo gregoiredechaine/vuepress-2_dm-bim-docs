@@ -32,8 +32,8 @@ export default defineUserConfig({
                 link: '/'
             },
             {
-                text: 'Admin',
-                link: 'admin/#/',
+                text: 'Dynamo',
+                link: 'dynamo/',
             }
         ]
     })
