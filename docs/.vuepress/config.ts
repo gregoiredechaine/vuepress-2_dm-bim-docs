@@ -2,7 +2,7 @@ import { defaultTheme, defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
     lang: 'en-US',
-    title: 'Hello Vuepress 2',
+    title: 'DM-BIM - Docs',
     description: 'DM',
     theme: defaultTheme({
         docsDir: 'docs',
@@ -22,7 +22,7 @@ export default defineUserConfig({
         ],
         navbar: [
             {
-                text: 'Vuepress 2 - Netlify CMS',
+                text: 'Home',
                 link: '/'
             },
             {

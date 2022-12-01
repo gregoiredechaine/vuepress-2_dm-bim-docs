@@ -9,12 +9,12 @@ actions:
     link: /admin/#/
     type: secondary
 features:
--   title: Markdown Editing
-    details: Netlify CMS provides a flexible Markdown Editor
--   title: Asset Management
-    details: Easily upload images to your repo with a built in asset uploader.
--   title: Powerful Deployments
-    details: Leverage the power of Netlify and Vuepress to deploy statically.
+-   title: Revit Library
+    details: Standards, processes and worklfows on utilizing our Revit Library.
+-   title: Avail
+    details: Easy asset loading for everyone on the team.
+-   title: Dynamo
+    details: Scripting simplified for our Revit projects.
 footer: MIT Licensed | Copyright @2022-Present Gregoire Dechaine (www.gregoiredechaine.com)
 title: Front Page
 ---
