@@ -13,19 +13,27 @@ export default defineUserConfig({
     theme: defaultTheme({
         docsDir: 'docs',
         repo: 'gregoiredechaine/vuepress-2_dm-bim-docs',
-        sidebar: [
-            // SidebarItem
-            {
-                text: 'Home',
-                link: '/',
-            },
-            // SidebarItem
-            {
-                text: 'Welcome',
-                link: '/welcome.md',
-                children: [], 
-            },
-        ],
+        sidebar: {
+            // SidebarObject for '/' - Home
+            '/': [
+                // SidebarItem
+                {
+                    text: 'Home',
+                    link: '/',
+                },
+                // SidebarItem
+                {
+                    text: 'Welcome',
+                    link: '/welcome.md',
+                    children: [], 
+                },
+            ],
+            '/dynamo/': [
+                // String - Page File Path
+                '/dynamo/README.md',
+                '/dynamo/construction-assemblies-scripting.md',
+            ],
+        },
         navbar: [
             {
                 text: 'Home',
