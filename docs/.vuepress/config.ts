@@ -41,7 +41,10 @@ export default defineUserConfig({
             },
             {
                 text: 'Dynamo',
-                link: 'dynamo/',
+                children: [
+                    '/dynamo/README.md',
+                    '/dynamo/construction-assemblies-scripting.md',
+                ],
             }
         ]
     })
