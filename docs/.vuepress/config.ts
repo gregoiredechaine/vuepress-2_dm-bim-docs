@@ -28,16 +28,26 @@ export default defineUserConfig({
                     children: [], 
                 },
             ],
+            // SidebarObject for '/dynamo/' - Dynamo
             '/dynamo/': [
                 // String - Page File Path
                 '/dynamo/README.md',
                 '/dynamo/construction-assemblies-scripting.md',
             ],
+            // SidebarObject for '/architecture/' - Architecture
+            '/architecture/': [
+                '/architecture/README.md',
+                '/architecture/materials/README.md',
+                ],
         },
         navbar: [
             {
-                text: 'Home',
-                link: '/'
+                text: 'Revit',
+                children: [
+                    '/revit/README.md',
+                    '/revit/content/README.md',
+                    '/revit/library/README.md',
+                ],
             },
             {
                 text: 'Dynamo',
