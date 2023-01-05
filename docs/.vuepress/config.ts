@@ -40,10 +40,9 @@ export default defineUserConfig({
                 '/dynamo/construction-assemblies-scripting.md',
                 ],
             // SidebarObject for '/revit/' - Revit
-            '/dynamo/': [
+            '/revit/': [
                 // String - Page File Path
-                '/dynamo/README.md',
-                '/dynamo/construction-assemblies-scripting.md',
+                '/revit/README.md',
                 ],
         },
         navbar: [
