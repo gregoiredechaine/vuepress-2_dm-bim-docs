@@ -36,6 +36,7 @@ Enabling Collaboration is easy and will happen automatically when you first save
 Follow these steps to Save a Workshared Cloud Model:
 
 1. Save your model locally, as you will not be able to enable Model Collaboration without first saving it once.
+
 2. Open the Collaborate Ribbon
 
 ![Select the Collaborate Ribbon](/images/revit_collaboration_save_workshared_cloud_model_1.png)
