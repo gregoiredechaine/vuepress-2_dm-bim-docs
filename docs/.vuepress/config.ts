@@ -18,11 +18,13 @@ export default defineUserConfig({
             title: 'DM-BIM - Docs',
             description: 'Davignon Martin - BIM Docs',
         },
-        '/fr/': {
-            lang: 'fr-CA',
-            title: 'DM-BIM - Documentation',
-            description: 'Davignon Martin - Documentation pour BIM',
-        },
+        /*
+        * '/fr/': {
+        *   lang: 'fr-CA',
+        *   title: 'DM-BIM - Documentation',
+        *   description: 'Davignon Martin - Documentation pour BIM',
+        *},
+        */
     },
 
     // Bundlre via Environment Varaiable. Add this when ready...

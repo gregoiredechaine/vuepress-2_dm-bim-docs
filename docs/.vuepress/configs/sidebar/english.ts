@@ -2,20 +2,6 @@ import type { SidebarConfig } from "@vuepress/theme-default";
 
 // English Sidebar
 export const sidebarEnglish: SidebarConfig = {
-    // SidebarObject for '/' - Home
-    '/': [
-        // SidebarItem
-        {
-            text: 'Home',
-            link: '/',
-        },
-        // SidebarItem
-        {
-            text: 'Welcome',
-            link: '/welcome.md',
-            children: [], 
-        },
-        ],
     // SidebarObject for '/architecture/' - Architecture
     '/architecture/': [
         '/architecture/README.md',
@@ -29,7 +15,16 @@ export const sidebarEnglish: SidebarConfig = {
         ],
     // SidebarObject for '/revit/' - Revit
     '/revit/': [
-        // String - Page File Path
-        '/revit/README.md',
-        ],
+        {
+            // String - Page File Path
+            text: 'Revit',
+            children: [
+                '/revit/README.md',
+                '/revit/revit_content.md',
+                '/revit/revit_library.md',
+                '/revit/revit_templates.md',
+                '/revit/revit_view_templates.md',
+            ],
+        },
+    ],
 }
