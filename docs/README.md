@@ -18,3 +18,9 @@ features:
 footer: MIT Licensed | Copyright @2022-Present Gregoire Dechaine (www.gregoiredechaine.com)
 title: Front Page
 ---
+
+## Test
+
+### Something Else
+
+## Test #2
