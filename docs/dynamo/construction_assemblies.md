@@ -1,6 +1,8 @@
-# Construction Assemblies
+---
+title: Construction Assemblies
+---
 
-Revit has various *Construction Assemblies*, which are most commonly modelled as system families. The Construction Assemblies that we currently schedule in a project are:
+Revit has various *Construction Assemblies*, which are modelled as system families. The Construction Assemblies that we currently schedule in a project are:
 - Walls
 - Floors
 - Ceilings

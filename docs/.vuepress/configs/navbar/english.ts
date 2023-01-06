@@ -5,7 +5,7 @@ export const navbarEnglish: NavbarConfig = [
         text: 'Dynamo',
         children: [
             '/dynamo/README.md',
-            '/dynamo/construction-assemblies-scripting.md',
+            '/dynamo/construction_assemblies.md',
         ],
     },
     {

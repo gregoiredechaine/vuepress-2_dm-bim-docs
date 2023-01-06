@@ -11,7 +11,7 @@ export const sidebarEnglish: SidebarConfig = {
     '/dynamo/': [
          // String - Page File Path
         '/dynamo/README.md',
-        '/dynamo/construction-assemblies-scripting.md',
+        '/dynamo/construction_assemblies.md',
         ],
     // SidebarObject for '/revit/' - Revit
     '/revit/': [
