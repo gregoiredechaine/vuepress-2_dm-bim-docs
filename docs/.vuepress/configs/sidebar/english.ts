@@ -20,6 +20,7 @@ export const sidebarEnglish: SidebarConfig = {
             text: 'Revit',
             children: [
                 '/revit/README.md',
+                '/revit/collaboration.md',
                 '/revit/revit_content.md',
                 '/revit/revit_library.md',
                 '/revit/revit_templates.md',

@@ -1,3 +1,3 @@
 ---
-title: DM Revit Templates
+title: Revit Templates
 ---
