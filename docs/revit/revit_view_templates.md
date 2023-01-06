@@ -136,7 +136,7 @@ Floor Finish Plans are created in the **Interiors** model and are the main views
 | Colour Scheme Location         | `Background`                         | \[x]    |
 | Colour Scheme                  | `<none>`                             | \[x]    |
 | Project Rotation               |                                      | \[x]    |
-| Subcategory                    |                                      | \[x]    |
+| Subcategory                    | `Floor Finish Plans`                 | \[x]    |
 
 ### View Scale
 
