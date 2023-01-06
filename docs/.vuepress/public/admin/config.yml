@@ -13,7 +13,11 @@ public_folder: "media/"
 # publish mode for Netlify CMS
 publish_mode: editorial_workflow
 
-
+# config for uploadcare media library integration
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 6e2a328e040d8ac99d86
 
 # collections configuration
 collections:
