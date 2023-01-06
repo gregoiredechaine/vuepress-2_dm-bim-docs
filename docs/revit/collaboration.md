@@ -67,3 +67,36 @@ The initial project setup by Revit creates the following default worksets:
 ![Default Worksets Menu](https://ucarecdn.com/b75c7874-8945-4b8e-9575-2b918d97442f/ "Revit - Collaboration - Creating Default Worksets - 1")
 
 These will be modified by the script. It is best practice to run this script before adding any model elements to your Revit file.
+
+| Name | Discipline | Workset Group |
+| :----- | :------- | :----- |
+| ﻿A﻿rchitecture-Area_Boundaries | A﻿rchitecture | Architecture - Workset Group |
+| ﻿A﻿rchitecture-Common_Set | A﻿rchitecture | Architecture - Workset Group |
+| ﻿A﻿rchitecture-Interior | A﻿rchitecture | Architecture - Workset Group |
+| ﻿A﻿rchitecture-Shaft_Set | A﻿rchitecture | Architecture - Workset Group |
+| ﻿A﻿rchitecture-Shell | A﻿rchitecture | Architecture - Workset Group |
+| ﻿A﻿rchitecture-Site | A﻿rchitecture | Architecture - Workset Group |
+| ﻿A﻿rchitecture-Unit_Set | A﻿rchitecture | Architecture - Workset Group |
+|﻿ Link-Architecture | Revit Link | Link - Workset Group |
+|﻿ Link-CAD_Underlay | Revit Link | Link - Workset Group |
+|﻿ Link-Civil | Revit Link | Link - Workset Group |
+|﻿ Link-Electrical | Revit Link | Link - Workset Group |
+|﻿ Link-Interior | Revit Link | Link - Workset Group |
+|﻿ Link-Mechanical | Revit Link | Link - Workset Group |
+|﻿ Link-Site | Revit Link | Link - Workset Group |
+|﻿ Link-Structure | Revit Link | Link - Workset Group |
+|﻿ Link-Survey | Revit Link | Link - Workset Group |
+|﻿ Link-Architecture | Revit Link | Link - Workset Group |
+|﻿ Site | Architecture | Site - Workset Group |
+|﻿ Site-Amenity | Architecture | Site - Workset Group |
+| ﻿Interior-Area_Boundaries | Interior | Architecture - Workset Group |
+| ﻿Interior-Common_Set | Interior | Architecture - Workset Group |
+| ﻿Interior-A﻿rchitecture| Interior | Architecture - Workset Group |
+| ﻿Interior-Shaft_Set | Interior | Architecture - Workset Group |
+| ﻿Interior-Shell | Interior | Architecture - Workset Group |
+| ﻿Interior-Site | Interior | Architecture - Workset Group |
+| ﻿Interior-Unit_Set | Interior | Architecture - Workset Group |
+
+
+
+
