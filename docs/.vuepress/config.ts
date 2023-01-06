@@ -1,6 +1,7 @@
 import { defaultTheme, defineUserConfig } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
 import {
+    navbarEnglish,
     sidebarEnglish,
 } from './configs/index.js'
 
@@ -51,23 +52,7 @@ export default defineUserConfig({
              */
             '/': {
                 // Navbar
-                navbar: [
-                    {
-                        text: 'Revit',
-                        children: [
-                            '/revit/README.md',
-                            '/revit/content/README.md',
-                            '/revit/library/README.md',
-                        ],
-                    },
-                    {
-                        text: 'Dynamo',
-                        children: [
-                            '/dynamo/README.md',
-                            '/dynamo/construction-assemblies-scripting.md',
-                        ],
-                    }
-                ],
+                navbar: navbarEnglish,
                 // Sidebar
                 sidebar: sidebarEnglish,
                 // Page Meta
