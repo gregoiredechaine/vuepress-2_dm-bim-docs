@@ -77,6 +77,13 @@ These will be modified by the script. It is best practice to run this script bef
 | ﻿A﻿rchitecture-Shell | A﻿rchitecture | Architecture - Workset Group |
 | ﻿A﻿rchitecture-Site | A﻿rchitecture | Architecture - Workset Group |
 | ﻿A﻿rchitecture-Unit_Set | A﻿rchitecture | Architecture - Workset Group |
+| ﻿Interior-Area_Boundaries | Interior | Architecture - Workset Group |
+| ﻿Interior-Common_Set | Interior | Architecture - Workset Group |
+| ﻿Interior-A﻿rchitecture| Interior | Architecture - Workset Group |
+| ﻿Interior-Shaft_Set | Interior | Architecture - Workset Group |
+| ﻿Interior-Shell | Interior | Architecture - Workset Group |
+| ﻿Interior-Site | Interior | Architecture - Workset Group |
+| ﻿Interior-Unit_Set | Interior | Architecture - Workset Group |
 |﻿ Link-Architecture | Revit Link | Link - Workset Group |
 |﻿ Link-CAD_Underlay | Revit Link | Link - Workset Group |
 |﻿ Link-Civil | Revit Link | Link - Workset Group |
@@ -89,13 +96,6 @@ These will be modified by the script. It is best practice to run this script bef
 |﻿ Link-Architecture | Revit Link | Link - Workset Group |
 |﻿ Site | Architecture | Site - Workset Group |
 |﻿ Site-Amenity | Architecture | Site - Workset Group |
-| ﻿Interior-Area_Boundaries | Interior | Architecture - Workset Group |
-| ﻿Interior-Common_Set | Interior | Architecture - Workset Group |
-| ﻿Interior-A﻿rchitecture| Interior | Architecture - Workset Group |
-| ﻿Interior-Shaft_Set | Interior | Architecture - Workset Group |
-| ﻿Interior-Shell | Interior | Architecture - Workset Group |
-| ﻿Interior-Site | Interior | Architecture - Workset Group |
-| ﻿Interior-Unit_Set | Interior | Architecture - Workset Group |
 
 
 
