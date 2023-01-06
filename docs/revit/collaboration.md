@@ -3,7 +3,7 @@ title: Collaboration
 ---
 Collaboration is an integral part of the workflow in the AEC industry.
 
-Revit designates collaborative models as Workshared models. DMA uses the _**Autodesk Construction Cloud**_ platform exclusively for hosting our Revit models. That means that the vast majority of our models are `Cloud Workshared Models` with some exceptions.
+Revit designates collaborative models as Workshared models. DMA uses the **_Autodesk Construction Cloud_** platform exclusively for hosting our Revit models. That means that the vast majority of our models are `Cloud Workshared Models` with some exceptions.
 
 We do not store any Central models on our server as the computer resources required are too grand and these models cannot be effectively shared with consultants outside the office's physical network.
 
@@ -30,6 +30,7 @@ Worksets essentially work like this:
 Note: To edit an element or a workset, it must be up-to-date. If you attempt to edit an element or a workset that is not up-to-date, you are prompted to update your local copy of the central model, so that you have all of the latest changes.
 
 ### Save a Workshared Cloud Model
+
 Enabling Collaboration is easy and will happen automatically when you first save your Cloud Workshared Models to the ACC Document Management platform.
 
 Follow these steps to Save a Workshared Cloud Model:
@@ -52,12 +53,13 @@ Follow these steps to Save a Workshared Cloud Model:
 ![Save as Cloud Model Menu. Choose the location and name for your Revit model in ACC.](/docs/.vuepress/dist/revit_collaboration_save_workshared_cloud_model_4.png)
 
 6. The next part is automatic, a few menus will go by... The model will have default worksets enabled and be saved to the cloud location with the filename specified. 
-
 7. Continue to the Creating Default Worksets section.
 
 ### Creating Default Worksets
+
 Our team has created a Dynamo Player action for enabling DMA's default worksets in your new project. This one is simple as it is a (Press Play) script.
 
 The initial project setup by Revit creates the following default worksets:
-- `Shared Views, Levels, Grids`
-- `Workset1`
+
+* `Shared Views, Levels, Grids`
+* `Workset1`
