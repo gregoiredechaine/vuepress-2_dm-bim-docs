@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as n,b as o}from"./app.5d146afa.js";const c={},_=o("p",null,"#Dynamo",-1),s=[_];function a(r,l){return t(),n("div",null,s)}const i=e(c,[["render",a],["__file","index.html.vue"]]);export{i as default};

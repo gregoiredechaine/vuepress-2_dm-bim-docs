@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2eaa58a8","path":"/dynamo/","title":"Dynamo","lang":"en-US","frontmatter":{"title":"Dynamo"},"excerpt":"","headers":[],"git":{"updatedTime":1669866027000,"contributors":[{"name":"Gregoire Dechaine","email":"gregdechaine@me.com","commits":1}]},"filePathRelative":"dynamo/README.md"}');export{e as data};
