@@ -80,7 +80,7 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist - disable as this is the same dist folder in Vuepress
 
 # Gatsby files
 .cache/

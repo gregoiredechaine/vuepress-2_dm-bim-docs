@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-697346aa","path":"/revit/revit_templates.html","title":"Revit Templates","lang":"en-US","frontmatter":{"title":"Revit Templates"},"excerpt":"","headers":[],"git":{"updatedTime":1673025990000,"contributors":[{"name":"Gregoire Dechaine","email":"gregdechaine@me.com","commits":3}]},"filePathRelative":"revit/revit_templates.md"}');export{e as data};

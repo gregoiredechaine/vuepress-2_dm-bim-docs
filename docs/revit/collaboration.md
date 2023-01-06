@@ -38,22 +38,22 @@ Follow these steps to Save a Workshared Cloud Model:
 1. Save your model locally, as you will not be able to enable Model Collaboration without first saving it once.
 2. Open the Collaborate Ribbon
 
-![Select the Collaborate Ribbon](/docs/.vuepress/dist/revit_collaboration_save_workshared_cloud_model_1.png)
+![Select the Collaborate Ribbon](/images/revit_collaboration_save_workshared_cloud_model_1.png)
 
 1. Select the Collaborate button.
 
-![Select the Collaborate Button](/docs/.vuepress/dist/revit_collaboration_save_workshared_cloud_model_2.png)
+![Select the Collaborate Button](/images/revit_collaboration_save_workshared_cloud_model_2.png)
 
 1. You will be prompted to select an option for how you wish to enable model collaboration. You will select the `In the cloud` option. 
 
-![Collaborate Menu, Select `In the cloud`](/docs/.vuepress/dist/revit_collaboration_save_workshared_cloud_model_3.png)
+![Collaborate Menu, Select `In the cloud`](/images/revit_collaboration_save_workshared_cloud_model_3.png)
 
 1. A menu popup will require you to select a project and a location to save the file on the ACC cloud. Work with your BIM Manager if you are unable to find the correct project directory or are unsure where to save / or what top name your model. (We will be adding documentastion in the future on this subject...)
 
-![Save as Cloud Model Menu. Choose the location and name for your Revit model in ACC.](/docs/.vuepress/dist/revit_collaboration_save_workshared_cloud_model_4.png)
+![Save as Cloud Model Menu.](/images/revit_collaboration_save_workshared_cloud_model_4.png)
 
-6. The next part is automatic, a few menus will go by... The model will have default worksets enabled and be saved to the cloud location with the filename specified. 
-7. Continue to the Creating Default Worksets section.
+1. The next part is automatic, a few menus will go by... The model will have default worksets enabled and be saved to the cloud location with the filename specified. 
+2. Continue to the Creating Default Worksets section.
 
 ### Creating Default Worksets
 
