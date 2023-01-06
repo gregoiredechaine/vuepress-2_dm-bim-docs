@@ -13,11 +13,11 @@ collections:
     fields: # The fields for each document, usually in Front Matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "view_templates" # Used in routes, e.g. /admin/collections/view_templates
-    label: "Revit - View Templates" # Used in the UI
-    folder: "docs/revit/view_templates" # The path to the folder where the documents are stored
+  - name: "revit" # Used in routes, e.g. /admin/collections/view_templates
+    label: "Revit" # Used in the UI
+    folder: "docs/revit/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g. YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in Front Matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
