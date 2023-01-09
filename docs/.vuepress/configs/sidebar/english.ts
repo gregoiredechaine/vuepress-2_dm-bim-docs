@@ -35,7 +35,8 @@ export const sidebarEnglish: SidebarConfig = {
             text: 'Revit Templates',
             children: [
                 '/revit_templates/README.md',
-                '/revit_templates/revit_template_-_base.md',
+                '/revit_templates/system-families',
+                '/revit_templates/revit-template---base.md',
             ],
         },
     ],

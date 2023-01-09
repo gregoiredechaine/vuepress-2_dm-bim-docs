@@ -23,7 +23,8 @@ export const navbarEnglish: NavbarConfig = [
         text: 'Revit Templates',
         children: [
             '/revit_templates/README.md',
-            '/revit_templates/revit_template_-_base.md',
+            '/revit_templates/system-families.md',
+            '/revit_templates/revit-template---base.md',
         ],
     },
 ]
