@@ -24,7 +24,18 @@ export const sidebarEnglish: SidebarConfig = {
                 '/revit/revit_content.md',
                 '/revit/revit_library.md',
                 '/revit/revit_templates.md',
-                '/revit/revit_view_templates.md',
+                '/revit/view_templates.md',
+            ],
+        },
+    ],
+    // SidebarObject for '/revit_templates/' - Revit Templates
+    '/revit/': [
+        {
+            // String - Page File Path
+            text: 'Revit Templates',
+            children: [
+                '/revit_template/README.md',
+                '/revit_template_-_base.md',
             ],
         },
     ],
