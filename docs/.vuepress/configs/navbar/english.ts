@@ -15,8 +15,15 @@ export const navbarEnglish: NavbarConfig = [
             '/revit/collaboration.md',
             '/revit/revit_content.md',
             '/revit/revit_library.md',
-            '/revit/revit_templates.md',
+            '/revit/revit_template.md',
             '/revit/view_templates.md',
+        ],
+    },
+    {
+        text: 'Revit Templates',
+        children: [
+            '/revit_templates/README.md',
+            '/revit_templates/revit_template_-_base.md',
         ],
     },
 ]
