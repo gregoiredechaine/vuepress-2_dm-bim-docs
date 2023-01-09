@@ -11,7 +11,7 @@ title: System Families
 
 ![Revit Templates - System Families - DM_Level_Survey](https://ucarecdn.com/e68f6019-25e6-45e5-9653-d6ca01ac390e/ "DM_Level_Survey")
 
-\-﻿--
+-﻿--
 
 ## Text
 
@@ -47,9 +47,7 @@ Our list of default text styles is short but sweet. ***Century Gothic*** is a wi
 
 ![Revit Templates - System Families - DM_Text_Cover](https://ucarecdn.com/b6eba668-88cc-4817-9d1d-183b141b1c30/ "DM_Text_Cover")
 
-
-
-\-﻿--
+-﻿--
 
 ## V﻿iewports
 
