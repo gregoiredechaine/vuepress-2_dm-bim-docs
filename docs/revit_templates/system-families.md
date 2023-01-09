@@ -33,11 +33,21 @@ Our list of default text styles is short but sweet. ***Century Gothic*** is a wi
 
 ### DM_Text_Subtitle
 
+![Revit Templates - System Families - DM_Text_Subtitle](https://ucarecdn.com/e6a7f0ac-2c85-4025-ac7c-bb707bf0bfe6/ "DM_Text_Subtitle")
+
 ### DM_Text_Subtitle_Red
+
+![Revit Templates - System Families - DM_Text_Subtitle_Red](https://ucarecdn.com/6adf9889-b679-44f2-a527-43219da3f78a/ "DM_Text_Subtitle_Red")
 
 ### DM_Text_Title
 
+![Revit Templates - System Families - DM_Text_Title](https://ucarecdn.com/4c11472d-9fc2-4502-a2cb-e293e7fc71bf/ "DM_Text_Title")
+
 ### DM_Text_Cover
+
+![Revit Templates - System Families - DM_Text_Cover](https://ucarecdn.com/b6eba668-88cc-4817-9d1d-183b141b1c30/ "DM_Text_Cover")
+
+
 
 \-﻿--
 
