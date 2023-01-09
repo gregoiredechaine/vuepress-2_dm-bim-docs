@@ -29,13 +29,13 @@ export const sidebarEnglish: SidebarConfig = {
         },
     ],
     // SidebarObject for '/revit_templates/' - Revit Templates
-    '/revit/': [
+    '/revit_templates/': [
         {
             // String - Page File Path
             text: 'Revit Templates',
             children: [
-                '/revit_template/README.md',
-                '/revit_template_-_base.md',
+                '/revit_templates/README.md',
+                '/revit_templates/revit_template_-_base.md',
             ],
         },
     ],
