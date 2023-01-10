@@ -96,6 +96,8 @@ These will be modified by the script. It is best practice to run this script bef
 |﻿ Link-Architecture | Revit Link | Link - Workset Group |
 |﻿ Site | Architecture | Site - Workset Group |
 |﻿ Site-Amenity | Architecture | Site - Workset Group |
+|﻿ Shared Views, Levels, Grids | Shared | Default - Workset Group |
+
 
 
 
